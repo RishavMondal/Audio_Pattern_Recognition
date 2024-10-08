@@ -1,4 +1,4 @@
-# Music Genre Classification Project
+# Music Genre Classification 
 
 ## Abstract
 In this project, we build a system using complex operations and various features to automatically classify music genres. This project is divided into two parts. The first part involves extracting various audio features and visualizing the feature space using K-Means clustering. The second part compares different classifiers and their performances.
